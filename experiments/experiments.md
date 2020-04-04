@@ -21,14 +21,31 @@ In this experiment, I learnt what a Microbit is and learnt how to execute and di
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Using a Transistor to Drive a Motor ###
+
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](exp4code.png)
+![Image](exp4.jpg)
+
+Experimenting with a motor
+
+#### Reflection ####777
+
+In this experiment, I learnt about how fan motors are used on Microbits and how to control it's speed via a transistor. I observed that the motor after a few seconds started to spin slowly, then faster until it reached miximum speed, until at this point it slowed down and came to a stop then repeated the process. This also made me aware of the Duty Cycle diagram and how the volts changed at different speeds. During the experiment I learnt that if a transistor is turned on and off very quickly and it spends it's time on and half its time off then the fan motor will spin at half speed. So when I changed the parcentage of the time the transistor spends on, the speed of the motor could be finely controlled. I also learnt about the Pulse Width Modulations (PMW) process which explains how the widths of the pulses are controlled if the pulse is either on or off. Therefore, this means that the PWM varies the volatage and controls the speed of the fan motor. 
+
+This experiment could be the basis of a real world application such as (insert something here).
+
+### Wind Power ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](exp7code.png)
+![Image](exp7.jpg)
 
 (Insert a caption here)
 
@@ -38,14 +55,15 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Making a Pedestrian Crossing ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](exp11code.png)
+![Image](exp11.jpg)
 
 (Insert a caption here)
 
@@ -55,31 +73,15 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### Making a Random Dice ###
 
 (Replace this with the experiment name)
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
-
-(Insert a caption here)
-
-#### Reflection ####
-
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
-
-### Experiment name ###
-
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
+![Image](exp12code.png)
+![Image](exp12.jpg)
 
 (Insert a caption here)
 
