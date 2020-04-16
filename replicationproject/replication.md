@@ -146,11 +146,11 @@ I re-tested my code again. Alas! It worked this time without me having to adjust
 
 ## Project outcome ##
 
-### Self Watering Plant ###
+### Watering Plant ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The aim of the project was to create a plant that could water itself. It relies on a Microbit to automate the process, ultimately negating the nuisance and time it takes to manually water a plant. The Microbit is able to detect the moisture of the soil from the plant through a moisture sensor built within the Microbit. In order for the plant to be watered, the Microbit must meet a set of conditions created for its intended use. If the Microbit meets the condition and receives a reading that detects no moisture in the soil, a trigger is set for the mechanism built within the project- to water the plant. This step is repeated until there is enough moisture in the soil measured. In a real world application, this type of project is intended for people who are limited on time, for example people who have long working hour jobs will find this product convenient as they most likely do not have time to water their plants. This type of project is also suitable for the elderly who may find tasks like watering plants manually difficult.  
 
 ### Showcase image ###
 
