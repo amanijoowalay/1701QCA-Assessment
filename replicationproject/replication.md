@@ -126,7 +126,7 @@ Unfortunately I still could not figure out the reason for why the buzzer and ser
 Initially I had wanted to create a water/ plant fountain that would still perform the same function as a self-watering plant as seen in the image below. Although due to the whole COVID-19 working from home transition, I was limited to getting access to the materials I wanted to create my water/plant fountain. So, I had to make do with the materials I had at home and decided to create the physical prototype. 
 ![Image](sketch.jpg)
 I found a few materials that I thought would work and began to construct my self-watering plant. I then tested the prototype out with my code.
-![Image](firsttrial.jpg)
+![Image](firsttrial.JPG)
 As seen in the image above, the function (code) executed well but the straw rotated a bit too far and missed the ‘vase’ completely. I decided that I would try and decrease the degree of rotation so that it would reach the angle of where the plant was. 
 ![Image](adjustservocode.png)
 ![Image](rotate.png)
@@ -142,7 +142,7 @@ I was lucky to have found a container that was of the same height. I proceeded t
 I re-tested my code again. Alas! It worked this time without me having to adjust anything majorly. 
 ![Image](final1.jpg)
 ![Image](closeup1.jpg)
-![Image](final2.jpg)
+![Image](final2.JPG)
 
 
 ## Project outcome ##
