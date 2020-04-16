@@ -118,7 +118,7 @@ I went to check my wiring again. From what I could see- I had attached a wire fo
 ![Image](servobuzzer2.jpg)
 I had then come to the conclusion that because I had two wires connecting to P0 that maybe the system was getting confused. However, I still did not understand why the servo wheel was not spinning even though I could hear the cogs trying to move.
 I decided to do a test just on the servo motor to see if the servo motor was working properly on its own. I created a simple code on a forever loop to test it.
-![Image](testingservo.jpg)
+![Image](testingservo.png)
 ![Image](servo1.jpg)
 On its test run, the servo motor was still not spinning, which meant that there was something wrong with the servo motor itself. I had researched the causes on an online blog forum and had seen a few people that were suggesting to possibly replace the batteries of the Microbit. I decided to try this out and re-tested the servo motor again. To my surprise, the servo motor began to spin.
 ![Image](servobuzzer1.jpg)
