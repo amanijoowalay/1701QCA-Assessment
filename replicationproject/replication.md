@@ -107,15 +107,46 @@ I chose to look into this project because I thought it was an interesting way of
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+I first started off this project by familiarising myself with the example self-watering plant project on MakeCode. I observed the use of materials and the way the project was constructed. The video demonstrated how the self-watering plant functioned and how the Microbit used took a reading of the soil moisture.
+I decided to try out the experiment exactly as seen in the MakeCode example. However I was interested in adding my own element to it. I wanted to add a buzzer noise that would align with the moment the Microbit detected that the moisture in the soil was low. In MakeCode, I added the ‘playtone Middle C’ function to the statement that conditioned the Microbit to display an umbrella icon (moisture reading < 500). I exported the code and trialled it on the Microbit. I set up my Microbit to work off a breadboard as I felt that this was easier. On trial, the buzzer noise was working, however the servo motor was not spinning at all.
+![Image](codefull.jpg)
+I assumed that I had done something wrong in my code and came back to try and see where I had gone wrong. I tried multiple times to adjust my code but could not figure out where I had made a mistake. I then looked at my wiring.
+![Image](fb1.png)
+I realised I had not put the correct wires to the correct place on the servo motor. I changed my wiring to darkest to GND, yellow to P2 and Red to 3V. 
+Now that I changed the wiring, I tested the experiment again. This time I could hear the buzzer at the right moment ( moisture reading < 500) and I could hear the cogs of the servo motor making noise but the servo motor was still not spinning. 
+I went to check my wiring again. From what I could see- I had attached a wire for the buzzer on P0 and a wire for the alligator clip. Therefore I had two wires for different instances connecting to P0. 
+![Image](servobuzzer2.jpg)
+I had then come to the conclusion that because I had two wires connecting to P0 that maybe the system was getting confused. However, I still did not understand why the servo wheel was not spinning even though I could hear the cogs trying to move.
+I decided to do a test just on the servo motor to see if the servo motor was working properly on its own. I created a simple code on a forever loop to test it.
+![Image](testingservo.jpg)
+![Image](servo1.jpg)
+On its test run, the servo motor was still not spinning, which meant that there was something wrong with the servo motor itself. I had researched the causes on an online blog forum and had seen a few people that were suggesting to possibly replace the batteries of the Microbit. I decided to try this out and re-tested the servo motor again. To my surprise, the servo motor began to spin.
+![Image](servobuzzer1.jpg)
+Unfortunately I still could not figure out the reason for why the buzzer and servo motor could not perform its functions at the same time. I decided that I would remove the buzzer from the project and do more research on it before adding it back into the project. 
+Initially I had wanted to create a water/ plant fountain that would still perform the same function as a self-watering plant as seen in the image below. Although due to the whole COVID-19 working from home transition, I was limited to getting access to the materials I wanted to create my water/plant fountain. So, I had to make do with the materials I had at home and decided to create the physical prototype. 
+![Image](sketch.jpg)
+I found a few materials that I thought would work and began to construct my self-watering plant. I then tested the prototype out with my code.
+![Image](firsttrial.jpg)
+As seen in the image above, the function (code) executed well but the straw rotated a bit too far and missed the ‘vase’ completely. I decided that I would try and decrease the degree of rotation so that it would reach the angle of where the plant was. 
+![Image](adjustservocode.png)
+![Image](rotate.png)
+As seen in the image above, each file highlights the degree of rotation I had experimented with. The change of degrees seemed to work for the most part, but the straw would always land straight back down in the position mentioned in the first trial. I fidgeted around a bit more with the servo motor rotation and was still not pleased with the angle it was rotating in. At some points the straw would rotate perfectly until it would rotate back again to its starting position but then get stuck mid-way in the actual ‘vase’. I also had to play around with the lengths and angles of the straw so that it would; collect enough water droplets and not hit the edge of the vase on rotation.
+I found this part of the prototyping and experimentation phase very time consuming as each change I made on the MakeCode Editor had to be saved, exported and then trialled out on the Microbit. 
+I realised that maybe the problem that I was facing was not to do with the servo motor rotations but with the actual physical vases. 
+![Image](trial5.jpg)
+The problems with the vases were;
+1)	The vase with the water inside had a small diameter which meant that it was hard for the straw to smoothly rotate without hitting the edge each time;
+2)	The vase with the water inside was taller than the vase with the plant inside which kept interfering with the rotations of the straw. It would have been better if the two vases were of the same height. 
+I then decided to trial out another prototype and this time I changed the vase. Again, I did not have access to the types of materials I wanted so I had to find materials at home that would satisfy the next prototype.
+I was lucky to have found a container that was of the same height. I proceeded to fill one side up with water and one side up with soil and re-fitted my servo motor on the edge that separated the two sides. 
+I re-tested my code again. Alas! It worked this time without me having to adjust anything majorly. 
+![Image](final1.jpg)
+![Image](closeup1.jpg)
+![Image](closeup2.jpg)
+![Image](wetsoil.jpg)
 
-*This should have quite a lot of information!*
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
-
-*Include screenshots of the code you have used.*
 
 ## Project outcome ##
 
