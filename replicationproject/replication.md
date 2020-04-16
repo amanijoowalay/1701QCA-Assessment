@@ -21,7 +21,7 @@ Soil Moisture Probe
 
 https://www.edaphic.com.au/products/soils/moisture-sensors-probes-and-meters/
 
-![Image](project2.png)
+![Image](project2.jpg)
 
 This project is related to mine because the soil moisture probe is a device that is made to read and measure soil moisture quantity. Once the probe has effectively assessed the moisture level of the soil, a number should pop up on the display area if a digital probe is being used. This is similar becasue in my project, I will also be using the Microbit to digitally display the soil moisture quantity. However, I will be setting a number range to determine whether the soil's moisture is sufficient. 
 
