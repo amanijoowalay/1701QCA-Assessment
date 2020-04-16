@@ -35,8 +35,7 @@ https://create.arduino.cc/projecthub/glowascii/servo-arduino-basics-cb9266?ref=s
 This project is related to mine because its aim is to be able to point the servo motor in a specific direction or turn by degrees, the same way the aim of my project is to turn the motor in a direction to collect water and water the plant. This project also creates conditions in which the servo motor is able to turn. I also plan on implementing conditions in my code so that the servo motor can turn according to what has been set.
 
 ### Related project 4 ###
-Setting Radios
-
+Water Sesnor
 http://www.multiwingspan.co.uk/micro.php?page=water
 
 ![Image](missingimage.png)
@@ -57,41 +56,40 @@ This project is related to mine because again, although it's also another versio
 
 
 ### Related project 6 ###
-Modern Laser Cut Plant Container 
+Small Table Top Water Fountain
 
-https://create.arduino.cc/projecthub/JontyDIY/sprout-modern-indoor-self-watering-planter-3eefaf
+https://www.youtube.com/watch?v=f6sj2Ddx3Ws
 
 ![Image](missingimage.png)
 
-This project is related to mine because again, although it's also another version of a self watering plant, I explored this project to observe the fabrics and materials used for the aesthetics of the self watering plant. I liked how clean cut the vase of the self-watering plant looked and I liked it's ability to hide the wires appropriately. 
-
+I chose to look into this project because I thought it was an interesting way of combining the function of a water fountain and the aesthetics of the way the water runs through the fountain. I would like to attempt this type of aesthetic for my self watering plant if I have access to the right materials. The challenging part would be trying to combine the functionality of the servo motor picking up water and then dropping it into the soil. 
 
 ## Reading reflections ##
 
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Before reading this paper, I was unaware of what affordances exactly were and had thought that each object had a known purpose or a specific intention.*
+*What I thought before:* Before reading this paper, I was unaware of what affordances exactly were and had thought that each object had a known purpose or a specific intention.
 
 
-*What I learned: I learnt about the powerful relationship that exists between man and ‘things’ whether it be through experience or some innate ability, we are capable of assessing objects according to their perceivable properties. This changed my perception on what I know of design experience and how interpretations of things allow us to both determine an object’s possible uses and analyse how they might help us to achieve our aims and objectives. I’ve also learnt about how feedback responses from an object can also determine whether the object succeeds or fails when interacting with it.*
+*What I learned:* I learnt about the powerful relationship that exists between man and ‘things’ whether it be through experience or some innate ability, we are capable of assessing objects according to their perceivable properties. This changed my perception on what I know of design experience and how interpretations of things allow us to both determine an object’s possible uses and analyse how they might help us to achieve our aims and objectives. I’ve also learnt about how feedback responses from an object can also determine whether the object succeeds or fails when interacting with it.
 
 
-*What I would like to know more about: I would be interested in further broadening my knowledge in the types of feedback objects respond with and would like to understand to what level a user finds feedback either helpful or unhelpful. *
+*What I would like to know more about:* I would be interested in further broadening my knowledge in the types of feedback objects respond with and would like to understand to what level a user finds feedback either helpful or unhelpful. 
 
 
-*How this relates to the project I am working on: This article relates to my project because it introduces me to think more broad about the intentions of my self watering plant project. For example, I might be creating this project with a purpose in mind but there may be other misleading signifiers that have not been picked up on as a designer. My project might require instructions to know how to interact with it otherwise it may be confusing for others starting out with my self watering plant. If I were to turn this project into a full feasible product I would have to think about how the users will interact with it and at what lengths would I be required to design not just a product but a user experience too. *
+*How this relates to the project I am working on:* This article relates to my project because it introduces me to think more broad about the intentions of my self watering plant project. For example, I might be creating this project with a purpose in mind but there may be other misleading signifiers that have not been picked up on as a designer. My project might require instructions to know how to interact with it otherwise it may be confusing for others starting out with my self watering plant. If I were to turn this project into a full feasible product I would have to think about how the users will interact with it and at what lengths would I be required to design not just a product but a user experience too. 
  
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Before reading this chapter, I was always under the impression that micro-interactions were the same as features and that features of a product are things that draw consumers towards a product. *
+*What I thought before:* Before reading this chapter, I was always under the impression that micro-interactions were the same as features and that features of a product are things that draw consumers towards a product. 
 
-*What I learned: This chapter definitely changed my knowledge on the importance of micro-interactions. Micro-interactions challenge designers to see how lightweight they can design, to reduce complexity and streamline features that could otherwise be burdensome. I also learnt that the intertwined history of interaction design and human computer interaction is really the history of micro-interactions. *
+*What I learned:* This chapter definitely changed my knowledge on the importance of micro-interactions. Micro-interactions challenge designers to see how lightweight they can design, to reduce complexity and streamline features that could otherwise be burdensome. I also learnt that the intertwined history of interaction design and human computer interaction is really the history of micro-interactions. 
 
-*What I would like to know more about: I would like to know more about designing micro-interactions because I aspire to work in a field of user experience and would like to grow my knowledge on the different types of micro-interactions that have appeared over time and the difference its made to consumers interacting with the product.*
+*What I would like to know more about:* I would like to know more about designing micro-interactions because I aspire to work in a field of user experience and would like to grow my knowledge on the different types of micro-interactions that have appeared over time and the difference its made to consumers interacting with the product.
 
-*How this relates to the project I am working on: This chapter relates to my project because my project is also made up of micro-interactions. According to the reading, micro-interactions are structured into 4 segments including; trigger, rules, feedback and loops and modes. My project (self watering plant) follows the same structure where a reading is taken of the soil moisture, if the reading detects no moisture in the soil there is a trigger to follow a rule to fill the soil with water. Once the rule is executed the microbit measures the soil moisture again and provides feedback. If the soil still requires moisture then the process is repeated until a condition has been met.*
+*How this relates to the project I am working on:* This chapter relates to my project because my project is also made up of micro-interactions. According to the reading, micro-interactions are structured into 4 segments including; trigger, rules, feedback and loops and modes. My project (self watering plant) follows the same structure where a reading is taken of the soil moisture, if the reading detects no moisture in the soil there is a trigger to follow a rule to fill the soil with water. Once the rule is executed the microbit measures the soil moisture again and provides feedback. If the soil still requires moisture then the process is repeated until a condition has been met.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
