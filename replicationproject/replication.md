@@ -12,7 +12,7 @@ Micro:bit Plant Watering System
 
 https://sciencescope.uk/wp-content/uploads/2017/08/MicroBit-Plant-Watering-System-User-Instructions-V2.pdf
 
-![Image](missingimage.png)
+![Image](project1.png)
 
 This project is related to mine because the outcome is also to create a self watering plant. Even though this project is the same, I wanted to explore the materials used and their method in creating the self watering plant. However, in this project, they used a Microbit water pump negating the need to make a physical mechanism to water the plant. 
 
@@ -21,7 +21,7 @@ Soil Moisture Probe
 
 https://www.edaphic.com.au/products/soils/moisture-sensors-probes-and-meters/
 
-![Image](missingimage.png)
+![Image](project2.png)
 
 This project is related to mine because the soil moisture probe is a device that is made to read and measure soil moisture quantity. Once the probe has effectively assessed the moisture level of the soil, a number should pop up on the display area if a digital probe is being used. This is similar becasue in my project, I will also be using the Microbit to digitally display the soil moisture quantity. However, I will be setting a number range to determine whether the soil's moisture is sufficient. 
 
@@ -30,7 +30,7 @@ Servo Basics
 
 https://create.arduino.cc/projecthub/glowascii/servo-arduino-basics-cb9266?ref=search&ref_id=servo%20180&offset=1
 
-![Image](missingimage.png)
+![Image](project3.png)
 
 This project is related to mine because its aim is to be able to point the servo motor in a specific direction or turn by degrees, the same way the aim of my project is to turn the motor in a direction to collect water and water the plant. This project also creates conditions in which the servo motor is able to turn. I also plan on implementing conditions in my code so that the servo motor can turn according to what has been set.
 
@@ -38,7 +38,7 @@ This project is related to mine because its aim is to be able to point the servo
 Water Sesnor
 http://www.multiwingspan.co.uk/micro.php?page=water
 
-![Image](missingimage.png)
+![Image](project4.png)
 
 This project relates to mine because this project is using a soil moisture level sensor and as seen in the photograph above, the project makes use of the breadboard to connect the sensor. I wanted to see how they made use of the sensor and breadboard. I also observed which pins they used; 3V, GND and A0 to pin 0. Another thing that was pointed out in the project was the challenges faced during the process. These were recorded;
 “Things that make a difference to your reading, like the amount of and type of soil, where you pour the water. The variable in your experiment is the amount of water. You need to run the experiment many times with different volumes of water. Everything else in your experiment needs to be the same each time you take a reading. In between each trial, wipe and dry the sensor and your container.” 
@@ -50,7 +50,7 @@ Modern Laser Cut Plant Container
 
 https://create.arduino.cc/projecthub/JontyDIY/sprout-modern-indoor-self-watering-planter-3eefaf
 
-![Image](missingimage.png)
+![Image](project5.png)
 
 This project is related to mine because again, although it's also another version of a self watering plant, I exploored this project to observe the fabrics and materials used for the aesthetics of the self watering plant. I liked how clean cut the vase of the self-watering plant looked and I liked it's ability to hide the wires appropriately. 
 
@@ -60,7 +60,7 @@ Small Table Top Water Fountain
 
 https://www.youtube.com/watch?v=f6sj2Ddx3Ws
 
-![Image](missingimage.png)
+![Image](project6.png)
 
 I chose to look into this project because I thought it was an interesting way of combining the function of a water fountain and the aesthetics of the way the water runs through the fountain. I would like to attempt this type of aesthetic for my self watering plant if I have access to the right materials. The challenging part would be trying to combine the functionality of the servo motor picking up water and then dropping it into the soil. 
 
