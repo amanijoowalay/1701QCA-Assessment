@@ -142,10 +142,7 @@ I was lucky to have found a container that was of the same height. I proceeded t
 I re-tested my code again. Alas! It worked this time without me having to adjust anything majorly. 
 ![Image](final1.jpg)
 ![Image](closeup1.jpg)
-![Image](closeup2.jpg)
-![Image](wetsoil.jpg)
-
-
+![Image](final2.jpg)
 
 
 ## Project outcome ##
