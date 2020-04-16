@@ -140,16 +140,13 @@ The problems with the vases were;
 I then decided to trial out another prototype and this time I changed the vase. Again, I did not have access to the types of materials I wanted so I had to find materials at home that would satisfy the next prototype.
 I was lucky to have found a container that was of the same height. I proceeded to fill one side up with water and one side up with soil and re-fitted my servo motor on the edge that separated the two sides. 
 I re-tested my code again. Alas! It worked this time without me having to adjust anything majorly. 
-![Image](final1.jpg)
 ![Image](closeup1.jpg)
 ![Image](final2.JPG)
 
 
 ## Project outcome ##
 
-*Complete the following information.*
-
-### Project title ###
+### Self Watering Plant ###
 
 ### Project description ###
 
@@ -157,15 +154,10 @@ I re-tested my code again. Alas! It worked this time without me having to adjust
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
+I would have liked to have presented it in a better way with better materials but again, I was limited with access to materials and had to make do with what I had.
 
-![Image](missingimage.png)
+![Image](final1.jpg)
 
-### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
 
 ### Reflection ###
 
