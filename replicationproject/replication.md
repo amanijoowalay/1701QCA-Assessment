@@ -93,13 +93,13 @@ I chose to look into this project because I thought it was an interesting way of
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:* Before reading this article I used to think that making digital products was only built for developers but after reading the experience of the user in the article, I feel as though I could potentially build my own digital products as a designer once I understand the fundamentals of technology. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:* I learned about the physical prototyping techniques that could ultimately change the way a product is created. These techniques are essential to every designer who may or may not be familiar with physical prototyping or have technical skills but are essential to expanding our knowledge and capabilities in the field of emerging design. For example, an interaction so small could be challenged with back and forth digital prototyping but the end result could be far greater than perceived. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about:* I myself, also feel quite intimidated by emerging technologies as I find it hard to understand code and have trouble with digital tools. Therefore, I’d like to explore more projects that require digital prototyping to up-skill in the field of technology. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on:* This relates to the project I’m working on because I am also making use of a micro-controller (Micro-bit). In terms of watering a plant, a user would have to manually fill up a water and then pour the water into the soil for the plant to grow. My project takes the nuisance and time out of the process and relies on a microbit to water the plant. Just like the reading, the project is based off a simple interaction but when automated, creates an effective solution for the user and their experience. 
 
 
 ## Interaction flowchart ##
